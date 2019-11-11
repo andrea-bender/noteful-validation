@@ -1,0 +1,45 @@
+*{
+  background-color: seashell;
+}
+
+.note {
+  background-color: seashell;
+}
+.notelist {
+  text-align: center;
+  width: 80%;
+  background-color: seashell;
+}
+
+.note-header {
+  background-color: seashell;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 2rem;
+}
+
+.note:active {
+  color: black;
+}
+
+.note-body {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: seashell;
+}
+
+.note-delete {
+  background-color: seashell;
+}
+
+.delete-button {
+  background-color: seashell;
+}
+
+.add-note {
+  background-color: seashell;
+}

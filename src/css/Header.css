@@ -1,0 +1,17 @@
+.header {
+  background-color: black;
+  color: white;
+  width: 100%;
+}
+
+.header h1 {
+  background-color: black;
+  text-decoration: none;
+  padding-left: 20%;
+  color: seashell;
+  font-size: 3rem;
+}
+
+.header h1:active {
+  color: seashell;
+}

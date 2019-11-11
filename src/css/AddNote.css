@@ -1,0 +1,32 @@
+.add-note-form {
+  margin-left: 40%;
+  background-color: seashell;
+}
+
+.add-note-form input {
+  background-color: white;
+  color: black;
+}
+
+#content {
+  margin-top: 5px;
+  height: 80px;
+  display: inline-block;
+  background-color: white;
+  width: 79%;
+}
+
+select {
+  background-color: white;
+  color: black;
+  margin-bottom: 5px;
+}
+
+option {
+  background-color: white;
+  color: black;
+}
+
+.note-create-button {
+  background: seashell;
+}
